@@ -1,7 +1,7 @@
 Package: rd2d
 Type: Package
 Title: Estimation and Inference for Boundary Discontinuity Designs
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person(given = "Matias D.", family = "Cattaneo", email = "matias.d.cattaneo@gmail.com", role = c("aut", "cre")),
     person(given = "Rocio", family = "Titiunik", email = "rocio.titiunik@gmail.com", role = "aut"),
@@ -18,7 +18,7 @@ Description: Provides pointwise and uniform estimation and inference methods for
     The companion software article is Cattaneo, Titiunik, and Yu (2025) <doi:10.48550/arXiv.2505.07989>.
 Imports: MASS, expm, ggplot2
 Suggests: testthat (>= 3.0.0)
-License: GPL-2
+License: GPL-3
 Encoding: UTF-8
 Maintainer: Matias D. Cattaneo <matias.d.cattaneo@gmail.com>
 NeedsCompilation: no
@@ -27,6 +27,6 @@ Author: Matias D. Cattaneo [aut, cre],
   Ruiqi Rae Yu [aut]
 Config/testthat/edition: 3
 Config/roxygen2/version: 8.0.0
-Packaged: 2026-05-13 14:22:26 UTC; cattaneo
+Packaged: 2026-05-23 05:03:11 UTC; CodexSandboxOffline
 Repository: CRAN
-Date/Publication: 2026-05-14 08:40:02 UTC
+Date/Publication: 2026-05-23 05:20:02 UTC
