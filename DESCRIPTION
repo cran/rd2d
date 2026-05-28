@@ -1,7 +1,7 @@
 Package: rd2d
 Type: Package
 Title: Estimation and Inference for Boundary Discontinuity Designs
-Version: 0.2.0
+Version: 1.0.0
 Authors@R: c(
     person(given = "Matias D.", family = "Cattaneo", email = "matias.d.cattaneo@gmail.com", role = c("aut", "cre")),
     person(given = "Rocio", family = "Titiunik", email = "rocio.titiunik@gmail.com", role = "aut"),
@@ -27,6 +27,6 @@ Author: Matias D. Cattaneo [aut, cre],
   Ruiqi Rae Yu [aut]
 Config/testthat/edition: 3
 Config/roxygen2/version: 8.0.0
-Packaged: 2026-05-23 05:03:11 UTC; CodexSandboxOffline
+Packaged: 2026-05-27 19:35:20 UTC; cattaneo
 Repository: CRAN
-Date/Publication: 2026-05-23 05:20:02 UTC
+Date/Publication: 2026-05-28 10:50:02 UTC
